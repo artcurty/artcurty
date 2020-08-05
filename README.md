@@ -1,6 +1,6 @@
 ### Hi, i'm Arthur 👋
 
-💻 Full Stack Developer Java/Reactjs 
+💻 Full Stack Developer 
 
 🌎 João Pessoa-PB
 
