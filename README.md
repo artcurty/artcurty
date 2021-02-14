@@ -1,7 +1,6 @@
 ### Hi, i'm Arthur 👋
 
-💻 Full Stack Developer 
-
+💻 Software engineer
 🌎 João Pessoa-PB
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Curty-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artcurty)](https://www.linkedin.com/in/artcurty)
