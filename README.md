@@ -1,6 +1,6 @@
 ### Hi, i'm Arthur 👋
 
-💻 Software engineer
+💻 Senior Software engineer
 
 🌎 João Pessoa-PB
 
